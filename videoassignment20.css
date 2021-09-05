@@ -1,0 +1,22 @@
+header h2{
+    border: 1px solid rgb(115, 140, 251);
+    color: rgb(100, 79, 218);
+    font-size: 23px;
+}
+
+
+
+.slider img{
+    height: 500px;
+}
+
+.product-1 img{
+    width: 160px;
+
+}
+.product-1{
+    text-align: center;
+}
+.product-1 h4{
+    font-size: 20px;
+}
